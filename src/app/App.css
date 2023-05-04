@@ -1,0 +1,13 @@
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    margin-top: 2%;
+    background-color: darkcyan;
+}
+
+form div {
+    padding: 0.5em;
+}
